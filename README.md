@@ -30,7 +30,7 @@ git clone https://github.com/howardjohnson159/ecommerce-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Gmail](howardjohnson9817@gmail.com).
+If you want to contact me you can reach me at :email:&nbsp; howardjohnson9817@gmail.com
 
 ## License
 
