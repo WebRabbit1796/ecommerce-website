@@ -12,9 +12,9 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 
-## Installing Anon
+## Installing Ecommerce-website
 
-To install **Anon**, follow these steps:
+To install **Ecommerce-website**, follow these steps:
 
 Linux and macOS:
 
